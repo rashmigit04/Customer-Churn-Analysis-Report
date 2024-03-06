@@ -98,7 +98,6 @@ In Summary, age group of 51–60, people with low credit scores and those with h
 
 
 
-## LEARNINGS
 In this Power BI analysis, I transformed raw data into a report that identified key factors contributing to customer churn at the bank. With this report, stakeholders can manage the churn situation for salaried customers by focusing on these key factors and evaluating the results of any changes made periodically.
 
 ## THANK YOU
