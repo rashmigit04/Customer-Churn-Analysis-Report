@@ -20,17 +20,17 @@ Salary Range Analysis: Evaluate the “Salary Range” columns to gain insights 
 ## RAW DATA
 The dataset for the project has the following columns:
 
-customer_id
-credit_score
-country
-gender
-age
-tenure
-balance
-product_number
-credit_card
-active_member
-estimated_salary
+customer_id, 
+credit_score, 
+country, 
+gender, 
+age, 
+tenure, 
+balance, 
+product_number, 
+credit_card, 
+active_member, 
+estimated_salary, 
 churn
 
 ## DATA PREPARATION
