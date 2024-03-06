@@ -68,17 +68,17 @@ Created Queries to organize data for better analysis and reporting.
 Created few DAX measures:
 
 Customers(Number of customers) - Total Customers
-# Customers = COUNT('Customer Data’[customer ID])
+Customers = COUNT('Customer Data’[customer ID])
 Customers Churned - Count of Customers "Churned"
-# Customers Lost = CALCULATE(COUNT('Customer Data’[Churn Status]), 'Customer Data’ 
-# [Churn Status] = “Churned") 
+Customers Lost = CALCULATE(COUNT('Customer Data’[Churn Status]), 'Customer Data’ 
+[Churn Status] = “Churned") 
 Churn Rate (%) - Customers/ Customer Churned
-# Churn Rate = 'Customer Data'[Customers Lost]/'Customer Data'[Customers] 
+Churn Rate = 'Customer Data'[Customers Lost]/'Customer Data'[Customers] 
 
 Measures were:
-# Customers: 10K
-# Customers Lost: 2037
-# Churn Rate: 20.4%
+Customers: 10K
+Customers Lost: 2037
+Churn Rate: 20.4%
 
 ## CONCLUSION
 1. People collecting extremely high salaries are not active among those that left.
