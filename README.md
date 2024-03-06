@@ -50,9 +50,9 @@ To clearly label the product_number column, I utilized the replace values option
 There was a wide range between the minimum and maximum values for the age, credit_score, balance columns. So, I grouped each of them using conditional column function.
 
 Columns like churn, active_member and credit_card had boolean datatypes of 1 and 0, essentially representing true or false. So. I formatted them by using the replace values option to change them to more intuitive data types.
-  # For active_member column, 0 = Not Active, 1 = Active
-  # For churn column, 0 = Not Churned, 1 = Churned
-  # For credit_card column, 0 = No, 1 = Yes
+For active_member column, 0 = Not Active, 1 = Active
+For churn column, 0 = Not Churned, 1 = Churned
+For credit_card column, 0 = No, 1 = Yes
 
 ## DATA TRANFORMATION
 Created Queries to organize data for better analysis and reporting.
