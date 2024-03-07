@@ -76,8 +76,8 @@ Churn Rate (%) - Customers/ Customer Churned
 Churn Rate = 'Customer Data'[Customers Lost]/'Customer Data'[Customers] 
 
 Measures were:
-Customers: 10K
-Customers Lost: 2037
+Customers: 10K, 
+Customers Lost: 2037, 
 Churn Rate: 20.4%
 
 ## CONCLUSION
